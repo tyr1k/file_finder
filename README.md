@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Project Description</title>
-</head>
 <body>
 	<h1>Project Description</h1>
 	<p>This is a Python script that extracts and copies all PNG files from a given ".tar.gz" archive containing a ".pro" file, based on the target specified in the ".pro" file.</p>
